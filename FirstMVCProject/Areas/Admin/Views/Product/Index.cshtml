@@ -1,0 +1,97 @@
+﻿@model List<Product>
+
+<div class="container">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+        <h1 class="text-primary">Category List</h1>
+        </div>
+        <div class="col-6 text-end">
+             <a asp-controller="Product" asp-action="Upsert" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Create New Product
+            </a>
+        </div>
+    </div>
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+    <tr>
+        @* <th style="padding-top:15px; padding-bottom:15px;padding-left:15px" class="text-center">
+            Title
+        </th>
+        <th style="padding-top:15px ;padding-bottom:15px;padding-left:15px" class="text-center">
+            Description
+        </th>
+            <th style="padding-top:15px; padding-bottom:15px;padding-left:15px" class="text-center">
+                ISBN
+            </th>
+            <th style="padding-top:15px ;padding-bottom:15px;padding-left:15px" class="text-center">
+                Author
+            </th>
+            <th style="padding-top:15px; padding-bottom:15px;padding-left:15px" class="text-center">
+                ListPrice
+            </th>
+            <th style="padding-top:15px ;padding-bottom:15px;padding-left:15px" class="text-center">
+                Price for 50 Books
+            </th>
+            <th style="padding-top:15px; padding-bottom:15px;" class="text-center">
+                Price for 100 Books
+            </th>
+            <th style="padding-top:15px ;padding-bottom:15px;" class="text-center">
+                Price for 100+ Books
+            </th>
+            <th style="padding-top:15px ;padding-bottom:15px;" class="text-center">
+                Category
+            </th> *@
+            <th>Title</th>
+            <th>ISBN</th>
+            <th>Author</th>
+            <th>ListPrice</th>
+            <th>Category</th>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+        @* <td class="pt-3 pb-3 text-center">
+                @obj.Title
+        </td>
+        <td class="pt-3 pb-3 text-center">
+                @obj.Description
+        </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.ISBN
+                </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.Author
+                </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.ListPrice
+                </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.Price
+                </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.Price50
+                </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.Price100
+                </td>
+                <td class="pt-3 pb-3 text-center">
+                    @obj.CategoryId
+                </td> *@
+                <td>@obj.Title</td>
+                <td>@obj.ISBN</td>
+                <td>@obj.Author</td>
+                <td>@obj.ListPrice</td>
+                <td>@obj.CategoryId</td>
+    <td class="col-3">
+        <div class="w-100 btn-group" role="group">
+                        <a asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.ProductId " class="btn btn-primary mx-2"><i class="bi bi-pencil-fill"></i> EDIT</a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.ProductId " class="btn btn-danger mx-2"><i class="bi bi-trash3-fill"></i> DELETE</a>
+        </div>
+    </td>
+            </tr>
+        }
+    </tbody>
+</table>

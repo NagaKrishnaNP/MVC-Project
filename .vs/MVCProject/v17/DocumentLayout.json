@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scs\\source\\repos\\MVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53964EC5-E66A-4562-8B6C-8EE3C5980E00}|MVCProject.Models\\MVCProject.Models.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53964EC5-E66A-4562-8B6C-8EE3C5980E00}|MVCProject.Models\\MVCProject.Models.csproj|solutionrelative:mvcproject.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53964EC5-E66A-4562-8B6C-8EE3C5980E00}|MVCProject.Models\\MVCProject.Models.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53964EC5-E66A-4562-8B6C-8EE3C5980E00}|MVCProject.Models\\MVCProject.Models.csproj|solutionrelative:mvcproject.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.dataaccess\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|solutionrelative:mvcproject.dataaccess\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53964EC5-E66A-4562-8B6C-8EE3C5980E00}|MVCProject.Models\\MVCProject.Models.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53964EC5-E66A-4562-8B6C-8EE3C5980E00}|MVCProject.Models\\MVCProject.Models.csproj|solutionrelative:mvcproject.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\razorpages\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\firstmvcproject\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40035A0A-C81B-4B58-AF5C-C814783135F4}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.dataaccess\\migrations\\20240925095844_categorytablecreation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|solutionrelative:mvcproject.dataaccess\\migrations\\20240925095844_categorytablecreation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.dataaccess\\migrations\\applicationdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|solutionrelative:mvcproject.dataaccess\\migrations\\applicationdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.dataaccess\\migrations\\20240925105410_seeddataforcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|solutionrelative:mvcproject.dataaccess\\migrations\\20240925105410_seeddataforcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.dataaccess\\migrations\\20240925095844_categorytablecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5CE1D7-72F8-4953-A9E4-4F3862880630}|MVCProject.DataAccess\\MVCProject.DataAccess.csproj|solutionrelative:mvcproject.dataaccess\\migrations\\20240925095844_categorytablecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335059A-2AD7-41A1-AB55-3444925CC895}|MVCProject.Utility\\MVCProject.Utility.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\mvcproject.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D335059A-2AD7-41A1-AB55-3444925CC895}|MVCProject.Utility\\MVCProject.Utility.csproj|solutionrelative:mvcproject.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\razorpages\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\razorpages\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\razorpages\\pages\\shared\\_toastrpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\shared\\_toastrpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|c:\\users\\scs\\source\\repos\\mvcproject\\razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3A5480-47E4-4C1F-90F8-82D099597CA3}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:28:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:21:46.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCProject.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Models\\Product.cs",
+              "RelativeToolTip": "MVCProject.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:56:03.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:19:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:12:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "MVCProject.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "MVCProject.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:17:20.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:19:38.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T05:13:31.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:12:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:19:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Program.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Program.cs",
+              "RelativeToolTip": "FirstMVCProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:14:16.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwF8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:41:09.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T11:37:37.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDB.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Data\\ApplicationDB.cs",
+              "RelativeDocumentMoniker": "MVCProject.DataAccess\\Data\\ApplicationDB.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Data\\ApplicationDB.cs",
+              "RelativeToolTip": "MVCProject.DataAccess\\Data\\ApplicationDB.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:32:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FirstMVCProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FirstMVCProject\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-30T05:39:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCProject.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Models\\Category.cs",
+              "RelativeToolTip": "MVCProject.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:05:41.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\FirstMVCProject\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:25:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPages\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:43:15.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240925095844_CategoryTableCreation.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.cs",
+              "RelativeDocumentMoniker": "MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.cs",
+              "RelativeToolTip": "MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:09:06.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240925105410_SeedDataForCategory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\20240925105410_SeedDataForCategory.Designer.cs",
+              "RelativeDocumentMoniker": "MVCProject.DataAccess\\Migrations\\20240925105410_SeedDataForCategory.Designer.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\20240925105410_SeedDataForCategory.Designer.cs",
+              "RelativeToolTip": "MVCProject.DataAccess\\Migrations\\20240925105410_SeedDataForCategory.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:03:20.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240925095844_CategoryTableCreation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.Designer.cs",
+              "RelativeDocumentMoniker": "MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.Designer.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.Designer.cs",
+              "RelativeToolTip": "MVCProject.DataAccess\\Migrations\\20240925095844_CategoryTableCreation.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:02:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDBModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVCProject.DataAccess\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.DataAccess\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "RelativeToolTip": "MVCProject.DataAccess\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:46:56.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "MVCProject.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\MVCProject.Utility\\SD.cs",
+              "RelativeToolTip": "MVCProject.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:32:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPages\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:00:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ToastrPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Shared\\_ToastrPartial.cshtml",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Shared\\_ToastrPartial.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Shared\\_ToastrPartial.cshtml",
+              "RelativeToolTip": "RazorPages\\Pages\\Shared\\_ToastrPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T07:00:14.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:58:53.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\scs\\source\\repos\\MVCProject\\RazorPages\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPages\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:42:53.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

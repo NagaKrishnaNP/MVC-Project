@@ -1,0 +1,15 @@
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\bin\Debug\net8.0\MVCProject.Models.deps.json
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\bin\Debug\net8.0\MVCProject.Models.runtimeconfig.json
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\bin\Debug\net8.0\MVCProject.Models.dll
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\bin\Debug\net8.0\MVCProject.Models.pdb
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.csproj.AssemblyReference.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.AssemblyInfoInputs.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.AssemblyInfo.cs
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.sourcelink.json
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.dll
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\refint\MVCProject.Models.dll
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.pdb
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\MVCProject.Models.genruntimeconfig.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Models\obj\Debug\net8.0\ref\MVCProject.Models.dll

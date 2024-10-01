@@ -1,0 +1,15 @@
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\bin\Debug\net8.0\MVCProject.Utility.deps.json
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\bin\Debug\net8.0\MVCProject.Utility.runtimeconfig.json
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\bin\Debug\net8.0\MVCProject.Utility.dll
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\bin\Debug\net8.0\MVCProject.Utility.pdb
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.csproj.AssemblyReference.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.AssemblyInfoInputs.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.AssemblyInfo.cs
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.sourcelink.json
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.dll
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\refint\MVCProject.Utility.dll
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.pdb
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\MVCProject.Utility.genruntimeconfig.cache
+C:\Users\scs\source\repos\MVCProject\MVCProject.Utility\obj\Debug\net8.0\ref\MVCProject.Utility.dll
